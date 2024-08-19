@@ -675,6 +675,7 @@ img {
 .button-box:focus {
     background-color: #404bbf;
     fill: #fff;
+    border: none;
 }
 
 .icon-closed {
@@ -713,7 +714,7 @@ img {
     margin-bottom: 4px;
     font-size: 12px;
     font-weight: 400;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.04em;
     color: #8e8f99;
 }
